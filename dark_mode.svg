@@ -104,7 +104,6 @@ text, tspan {white-space: pre;}
   <tspan class="valueColor">8</tspan> 
   {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | 
   <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">102</tspan> | 
- 
 </text>
 
 </svg>
