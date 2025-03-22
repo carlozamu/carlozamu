@@ -65,7 +65,7 @@ text, tspan {white-space: pre;}
 
   <!-- Linguaggi di programmazione -->
   <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: 
-  <tspan class="valueColor">Python, TensorFlow, PyTorch, Java, C/C++, SQL</tspan>
+  <tspan class="valueColor">Python, TensorFlow, PyTorch</tspan>
 
   <!-- Altri linguaggi “informatici” -->
   <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: 
@@ -104,8 +104,7 @@ text, tspan {white-space: pre;}
   <tspan class="valueColor">8</tspan> 
   {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | 
   <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">102</tspan> | 
-  <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">5</tspan>
-
+ 
 </text>
 
 </svg>
