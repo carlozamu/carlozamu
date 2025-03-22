@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #953800;}
+.valueColor {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
+
+<text x="15" y="30" fill="#24292f" class="ascii">
+    <tspan x="15" y="30">           +*##%#**%%#*#                  </tspan>
+    <tspan x="15" y="50">         *#*%##%%#%#++*+****              </tspan>
+    <tspan x="15" y="70">        +**###%%%%*#****###*#*            </tspan>
+    <tspan x="15" y="90">     *#+**%%@%%%%*#****+*##+#***          </tspan>
+    <tspan x="15" y="110">    **+#*%%@%%%@##%***#*#+#++**+*%#       </tspan>
+    <tspan x="15" y="130">    *+##%#%@%@%%%%**+*++**#**##*###*      </tspan>
+    <tspan x="15" y="150">   ++#*#*##+*++:-:..:-:-#*+++*#***+*      </tspan>
+    <tspan x="15" y="170">   **+**-=..             :-::=**+#+##     </tspan>
+    <tspan x="15" y="190">   *#+--.                  :  -+##****    </tspan>
+    <tspan x="15" y="210">   *#:..                      .-*#**#     </tspan>
+    <tspan x="15" y="230">   *#:             .-=:.       =*#%*      </tspan>
+    <tspan x="15" y="250"> +++%=+=**+#-:    %-..  ...:-  =+*%*      </tspan>
+    <tspan x="15" y="270"> +%#%+*:..===#* %.:=-=%#:.+=-:.-+*%*      </tspan>
+    <tspan x="15" y="290"> +++=+==#*%-==   # .:::-..     :+- . =    </tspan>
+    <tspan x="15" y="310">  ++*+= ..:. .            :    ..    =    </tspan>
+    <tspan x="15" y="330">  +*=++    ..       #   -     ..     =    </tspan>
+    <tspan x="15" y="350">  ++*-.     ..  .             ..     +    </tspan>
+    <tspan x="15" y="370">   ** -      .=-              .     +     </tspan>
+    <tspan x="15" y="390">    **.:.                     .=:.**      </tspan>
+    <tspan x="15" y="410">     **-:.::---::---++       .- :**       </tspan>
+    <tspan x="15" y="430">       *:...:::....         .:  :#**      </tspan>
+    <tspan x="15" y="450">        *-......          .:=   .%**      </tspan>
+    <tspan x="15" y="470">          -:.         ..:--.    .+*+      </tspan>
+    <tspan x="15" y="490">            -:...:.:::==:.       . *++    </tspan>
+    <tspan x="15" y="510">             =*++++++:.             *++   </tspan>
+</text>
+
+
+
+
+<text x="370" y="30" fill="#c9d1d9">
+  <!-- Nome/Handle -->
+  <tspan x="370" y="30">carlo@zamu</tspan>
+  <tspan x="370" y="50">——————</tspan>
+
+  <!-- Sistema operativo principale -->
+  <tspan x="370" y="70" class="keyColor">OS</tspan>: 
+  <tspan class="valueColor">Mac OS</tspan>
+
+  <!-- Età / uptime (puoi mettere un valore a piacere) -->
+  <tspan x="370" y="90" class="keyColor">Uptime</tspan>: 
+  <tspan class="valueColor">23 anni, 11 mesi</tspan>
+
+  <!-- Università -->
+  <tspan x="370" y="110" class="keyColor">Host</tspan>: 
+  <tspan class="valueColor">University of Trento</tspan>
+
+  <!-- Corso di laurea / “Kernel” -->
+  <tspan x="370" y="130" class="keyColor">Kernel</tspan>: 
+  <tspan class="valueColor">MSc in Artificial Intelligence Systems</tspan>
+
+  <!-- Editor preferiti -->
+  <tspan x="370" y="150" class="keyColor">IDE</tspan>: 
+  <tspan class="valueColor">VSCode, Jupyter Notebook</tspan>
+
+  <!-- Linguaggi di programmazione -->
+  <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: 
+  <tspan class="valueColor">Python, JavaScript, Java, C/C++, SQL</tspan>
+
+  <!-- Altri linguaggi “informatici” -->
+  <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: 
+  <tspan class="valueColor">HTML, CSS, Markdown, Docker</tspan>
+
+  <!-- Lingue “reali” -->
+  <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: 
+  <tspan class="valueColor">Italian (C2), English (B2/C1)</tspan>
+
+  <!-- Campi di specializzazione -->
+  <tspan x="370" y="270" class="keyColor">Focus</tspan>: 
+  <tspan class="valueColor">Computer Vision, Deep Learning, AI Agents, LLM</tspan>
+
+  <!-- Altre competenze/hobby software -->
+  <tspan x="370" y="290" class="keyColor">Expertise</tspan>: 
+  <tspan class="valueColor">PyTorch, TensorFlow, Model Optimization</tspan>
+
+  <!-- Sezione contatti -->
+  <tspan x="370" y="330" class="keyColor">Contact</tspan>:
+  <tspan x="370" y="350">——————</tspan>
+  
+  <tspan x="370" y="370" class="keyColor">Email</tspan>: 
+  <tspan class="valueColor">carlo.zamuner@gmail.com</tspan>
+
+  <tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: 
+  <tspan class="valueColor">carlozamuner</tspan>
+
+  <tspan x="370" y="410" class="keyColor">GitHub</tspan>: 
+  <tspan class="valueColor">carlozamu</tspan>
+
+  <!-- Sezione statistiche (valori di esempio) -->
+  <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
+  <tspan x="370" y="470">——————</tspan>
+
+  <tspan x="370" y="490" class="keyColor">Repos</tspan>:
+  <tspan class="valueColor">8</tspan> 
+  {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | 
+  <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">102</tspan> | 
+  <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">5</tspan>
+
+</text>
+
+</svg>
