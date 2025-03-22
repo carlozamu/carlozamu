@@ -38,7 +38,7 @@ text, tspan {white-space: pre;}
     <tspan x="15" y="510">             =*++++++:.             *++   </tspan>
 </text>
 
-<text x="370" y="30" fill="#c9d1d9">
+<text x="370" y="30" fill="#000000">
   <!-- Nome/Handle -->
   <tspan x="370" y="30">carlo@zamuner</tspan>
   <tspan x="370" y="50">——————</tspan>
