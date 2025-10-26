@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=carlozamuner&color=blueviolet)
+![](https://visitcount.itsvg.in/api?id=carlozamuner&icon=5&color=blueviolet&base=2000)
 
 # 👋 Hi, I'm Carlo Zamuner
 
