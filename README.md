@@ -2,11 +2,11 @@
 
 # 👋 Carlo Zamuner
 
-**MSc AI Systems @ University of Trento** | Founder SwimMind | Shipped Production AI at Scale
+**AI Engineer | Building Scalable GenAI Systems | MSc AI Systems @ University of Trento**
 
-I am an AI developer and founder with a focus on GenAI application and integration. My **goal** is to bring the power of Large Language Models to scalable and reliable production systems.
-
-I use **LangChain and Datapizza-ai**  to orchestrate complex agents and flows and actively contribute to platforms ecosystem. My experience ranges from designing ML pipelines on AWS to creating applications that generate tangible value, combining applied research (e.g., CLIP) with rapid product iteration.
+I design, deploy, and scale AI applications that bridge research and production.  
+Focus on **LLM integration**, **computer vision**, and **cloud-native ML systems**.  
+I turn prototypes into reliable, high-impact products.
 
 ---
 
@@ -38,8 +38,22 @@ I use **LangChain and Datapizza-ai**  to orchestrate complex agents and flows an
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </span>
 
-<p>
-   <a href="https://linkedin.com/in/carlozamuner"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-   <a href="mailto:carlo.zamuner@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-   <a href="https://carlozamuner.it"><img src="https://img.shields.io/badge/Portfolio-7F167F?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+## What I’m Looking For
+AI Engineering or Applied ML roles focused on **scalable GenAI** and **vision systems**.  
+I add value where research needs production-grade execution.
+
+
+<p align="left">
+  <b>Contact: </b>
+  <a href="https://www.linkedin.com/in/carlo-zamuner/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:carlo.zamuner@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://carlozamuner.it">
+    <img src="https://img.shields.io/badge/Portfolio-7F167F?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
 </p>
+
+
