@@ -2,33 +2,26 @@
 
 # Hey there! 👋
 
-I'm Carlo, an AI engineer from Italy.
+I'm [Carlo](https://carlozamuner.it), an AI engineer based in Italy.
 
-I like taking vague ideas (“what if an AI could help swim coaches?” or “can I get 3D poses from these cameras?”) and turning them into working tools. Sometimes they become full projects, sometimes they stay as strange experiments in a notebook.
+I design and build AI systems that mix large language models, computer vision, and a bit of simulation.
 
-Most of what I build lives somewhere between **LLMs**, **computer vision**, and **simulations**. I play with multi-agent systems, 3D pose estimation, and GPU-accelerated experiments for wireless and communication systems.
+If an idea pops into my head, chances are I’ll turn it into a prototype, then push it until it’s useful for someone who isn’t me.
 
-My main tech stack is `Python`, `PyTorch`, `LangChain`, `FastAPI`, `Docker`, a bit of `TensorFlow`, usually running on `AWS` or `GCP`. I spend way too much time in VS Code, Jupyter, and the terminal.
+My main tech stack is Python, PyTorch, LangChain, FastAPI, and Docker. I usually ship things on AWS or Google Cloud.
 
-I've got a few pinned projects, but my current favorite is **SwimMind**, an AI platform that helps swim coaches plan training and escape spreadsheets. I’m also fond of a **Home Repair Assistant** built with LLM agents, and a **3D basketball pose** project using an 8-camera rig.
+I’ve got a bunch of pinned projects, but my favorite is [SwimMind](https://swimmind.web.app), an AI assistant that helps swim coaches plan and adapt training sessions.
 
-I’ve stopped counting how many repos I’ve started. The public ones are the tidy part – the real chaos lives in private prototypes and half-finished tools.
+Most of my experiments start in notebooks and end up as APIs, dashboards, or small tools running quietly in the cloud.
 
-If you’re curious, you can see more of what I’m building here: [carlozamuner.it](https://carlozamuner.it)
+If you want to see more of what I build, my projects and notes are on my website: [carlozamuner.it](https://carlozamuner.it)
 
----
 
 Fun Facts:
 
-- I’m doing an MSc in Artificial Intelligence Systems at the University of Trento  
-- I like reading research papers and then trying to break them with tiny experiments  
-- I play with blockchain data and simple algo-trading strategies for fun  
-- I weirdly enjoy debugging more than writing “hello world”  
-- Hobbies: building side projects, learning new tools, overthinking system design
+• I have a Google Sheet that tracks all my expenses and runs “what if” simulations for future me, just because I enjoy it  
+• I actively invest part of my savings and treat it like a long-running experiment, not a get-rich-quick plan  
+• I’m happiest either in the pool or on the slopes – swimming and skiing are my reset buttons  
+• I love landing in a new city with no strict plan and just walking around to see what I find  
 
----
 
-You can find me here:
-
-- [LinkedIn](https://www.linkedin.com/in/carlo-zamuner/)  
-- [GitHub](https://github.com/carlozamuner) · [Portfolio](https://carlozamuner.it)
