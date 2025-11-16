@@ -1,59 +1,34 @@
 ![](https://komarev.com/ghpvc/?username=carlozamuner&color=blueviolet)
 
-# 👋 Carlo Zamuner
+# Hey there! 👋
 
-**AI Engineer | Building Scalable GenAI Systems | MSc AI Systems @ University of Trento**
+I'm Carlo, an AI engineer from Italy.
 
-I design, deploy, and scale AI applications that bridge research and production.  
-Focus on **LLM integration**, **computer vision**, and **cloud-native ML systems**.  
-I turn prototypes into reliable, high-impact products.
+I like taking vague ideas (“what if an AI could help swim coaches?” or “can I get 3D poses from these cameras?”) and turning them into working tools. Sometimes they become full projects, sometimes they stay as strange experiments in a notebook.
+
+Most of what I build lives somewhere between **LLMs**, **computer vision**, and **simulations**. I play with multi-agent systems, 3D pose estimation, and GPU-accelerated experiments for wireless and communication systems.
+
+My main tech stack is `Python`, `PyTorch`, `LangChain`, `FastAPI`, `Docker`, a bit of `TensorFlow`, usually running on `AWS` or `GCP`. I spend way too much time in VS Code, Jupyter, and the terminal.
+
+I've got a few pinned projects, but my current favorite is **SwimMind**, an AI platform that helps swim coaches plan training and escape spreadsheets. I’m also fond of a **Home Repair Assistant** built with LLM agents, and a **3D basketball pose** project using an 8-camera rig.
+
+I’ve stopped counting how many repos I’ve started. The public ones are the tidy part – the real chaos lives in private prototypes and half-finished tools.
+
+If you’re curious, you can see more of what I’m building here: [carlozamuner.it](https://carlozamuner.it)
 
 ---
 
-| 🎯 What I Build | 🏆 Proven Impact |
-|---|---|
-| **Production ML pipelines** that handle 10K+ real-time events | **SwimMind:** Gemini AI + 60% coaching time saved |
-| **LLM orchestration** via multi-agent systems (A2A protocol) | **Multi-agent AI:** 1000+ concurrent users, 35% latency cut |
-| **Computer Vision** from research to deployed systems | **3D Pose:** 18mm MPJPE, motion capture validated |
-| **GPU-accelerated simulations** on AWS & Google Cloud | **Simulations:** Unreal+Sionna, 40% efficiency gain |
+Fun Facts:
+
+- I’m doing an MSc in Artificial Intelligence Systems at the University of Trento  
+- I like reading research papers and then trying to break them with tiny experiments  
+- I play with blockchain data and simple algo-trading strategies for fun  
+- I weirdly enjoy debugging more than writing “hello world”  
+- Hobbies: building side projects, learning new tools, overthinking system design
 
 ---
 
-## 💻 Stack & 🔗 Let's Work
+You can find me here:
 
-**ML/AI:**
-<span>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/datapizza--ai-red?style=for-the-badge&logo=bitrise&link=https%3A%2F%2Fdatapizza.tech%2Fen%2Fai-framework%2F" alt="Badge">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</span>
-
-**Infrastructure:**
-<span>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</span>
-
-## What I’m Looking For
-AI Engineering or Applied ML roles focused on **scalable GenAI** and **vision systems**.  
-I add value where research needs production-grade execution.
-
-
-<p align="left">
-  <b>Contact: </b>
-  <a href="https://www.linkedin.com/in/carlo-zamuner/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="mailto:carlo.zamuner@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-  <a href="https://carlozamuner.it">
-    <img src="https://img.shields.io/badge/Portfolio-7F167F?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
-</p>
-
-
+- [LinkedIn](https://www.linkedin.com/in/carlo-zamuner/)  
+- [GitHub](https://github.com/carlozamuner) · [Portfolio](https://carlozamuner.it)
