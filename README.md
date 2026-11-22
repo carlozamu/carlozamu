@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=carlozamuner&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=carlozamu&color=blueviolet)
 
 # Hey there! 👋
 
@@ -15,13 +15,3 @@ I’ve got a bunch of pinned projects, but my favorite is [SwimMind](https://swi
 Most of my experiments start in notebooks and end up as APIs, dashboards, or small tools running quietly in the cloud.
 
 If you want to see more of what I build, my projects and notes are on my website: [carlozamuner.it](https://carlozamuner.it)
-
-
-Fun Facts:
-
-• I have a Google Sheet that tracks all my expenses and runs “what if” simulations for future me, just because I enjoy it  
-• I actively invest part of my savings and treat it like a long-running experiment, not a get-rich-quick plan  
-• I’m happiest either in the pool or on the slopes – swimming and skiing are my reset buttons  
-• I love landing in a new city with no strict plan and just walking around to see what I find  
-
-
